@@ -1,6 +1,8 @@
 # CFDparticleLungMucosa
 Code for manuscript titled Computational Fluid Dynamics Modeling of Aerosol Particle Transport through Lung Airway Mucosa
 
+[![DOI](https://zenodo.org/badge/7901020.svg)](https://zenodo.org/badge/latestdoi/7901020)
+
 ## Overview 
 This repository provides the codes for Darcy flow through porous mucus and the pericillary layer of the lung mucosa via COMSOL Multiphysics 5.6.
 
