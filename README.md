@@ -20,8 +20,8 @@ B. A. Bartlett, Y. Feng, C. A. Fromen, and A. N. Ford Versypt, Computational Mod
 
 ### Codes
 
-* Carreau Fluid Application.mph
-This file contains the COMSOL simulation file for the model described in the manuscript. 
+* Carreau Fluid Application.zip
+This compressed zip file contains the .mph file for the COMSOL simulation of the model and geometry described in the manuscript. 
 
 * Line Plots of Various Particles.xlsx
 This file contains the COMSOL simulation output tabulated data for parameter sweeps and draft plots.
