@@ -14,7 +14,7 @@ Blake A. Bartlett (1) and Ashlee N. Ford Versypt (2)
 Corresponding author: A. N. Ford Versypt, ashleefv@buffalo.edu
 
 ### Manuscript
-B. A. Bartlett, Y. Feng, C. A. Fromen, and A. N. Ford Versypt, Computational Modeling of Aerosol Particle Transport through Lung Airway Mucosa, bioRxiv preprint, 2023. DOI: [10.1101/2021.10.18.464809v2](https://www.biorxiv.org/content/10.1101/2021.10.18.464809v2)
+B. A. Bartlett, Y. Feng, C. A. Fromen, and A. N. Ford Versypt, Computational Modeling of Aerosol Particle Transport through Lung Airway Mucosa, Computers & Chemical Engineering, 2023, 179, 108458. DOI: [10.1016/j.compchemeng.2023.108458](https://www.sciencedirect.com/science/article/pii/S0098135423003289)
 
 ### Codes
 
